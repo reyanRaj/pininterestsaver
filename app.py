@@ -1,5 +1,4 @@
 from flask import Flask
-from util import pypin
 from flask import request
 import requests
 from flask import url_for
